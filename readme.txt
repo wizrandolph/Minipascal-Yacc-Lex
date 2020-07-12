@@ -1,4 +1,4 @@
-please use following command to make a excutable program and check the ast.
+please use following command to make an excutable program and check the ast.
 /***************************************************/
 flex pascal_lex.l
 yacc -d pascal_yacc.y
